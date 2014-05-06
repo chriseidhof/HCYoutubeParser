@@ -2,7 +2,6 @@ Pod::Spec.new do |s|
   s.name         = "HCYoutubeParser"
   s.version      = "0.0.2"
   s.license      = 'Public Domain'
-  s.platform     = :ios, :osx
 
   s.author       = "hellozimi"
   s.summary      = "Retrieves the iOS compatible video URL from YouTube."
